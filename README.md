@@ -1,5 +1,4 @@
-# Exercise : The for loop
-### ES6 : The for loop 🎓
+### ES6 Loops 🎓
 ---
   The syntax of the loop is:
     
