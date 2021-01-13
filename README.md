@@ -8,18 +8,13 @@
     
     The 'for' loop includes some parts that are defined as follows:
     
-       - Initialization: It is the initial condition that is executed once at the starting of the loop. 
-         In this part, we initialize the variable, or it can also be used for the already initialized variable. 
-         It is an optional statement.
+       - การเริ่มต้น:เป็นเงื่อนไขเริ่มต้นที่ดำเนินการครั้งเดียวที่จุดเริ่มต้นของลูป ในส่วนนี้เรากำหนดค่าเริ่มต้นของตัวแปรหรือสามารถใช้สำหรับตัวแปรเริ่มต้นแล้ว เป็นคำสั่งเสริม
          
-       - Condition: It is executed each time for testing the condition of the loop.
-         It continues the execution of the loop until the condition is false.
-         It returns only Boolean values that are either true or false.
-         It is also an optional statement.
+       - เงื่อนไข:จะดำเนินการทุกครั้งสำหรับการทดสอบเงื่อนไขของลูป มันยังคงดำเนินการของลูปต่อไปจนกว่าเงื่อนไขจะเป็นเท็จ ส่งคืนเฉพาะค่าบูลีนที่เป็นจริงหรือเท็จ นอกจากนี้ยังเป็นคำสั่งเสริม
          
-       - Increment/Decrement: It can increment or decrement the value of the variable, and it is also an optional statement.
+       - Increment / Decrement:สามารถเพิ่มหรือลดค่าของตัวแปรและยังเป็นคำสั่งเสริม
          
-       - Statement: It represents the body of the loop, which is executed every time until the conditional expression is false.
+       - คำสั่ง:แสดงถึงเนื้อความของลูปซึ่งดำเนินการทุกครั้งจนกว่านิพจน์เงื่อนไขจะเป็นเท็จ
   ### Flowchart
   
   <img align="left" alt="es6-loops" width="300px" height="400px" src="https://static.javatpoint.com/tutorial/es6/images/es6-loops2.jpg" />
