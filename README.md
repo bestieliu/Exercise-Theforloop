@@ -1,2 +1,3 @@
 # Exercise-Theforloop
-ES6 : The for loop
+### ES6 : The for loop 🎓
+---
