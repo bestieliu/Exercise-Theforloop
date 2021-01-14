@@ -16,6 +16,6 @@
        - Increment / Decrement:สามารถเพิ่มหรือลดค่าของตัวแปรและยังเป็นคำสั่งเสริม`
          
        - คำสั่ง:แสดงถึงเนื้อความของลูปซึ่งดำเนินการทุกครั้งจนกว่านิพจน์เงื่อนไขจะเป็นเท็จ`
-  ### Flowchart
+  ### `Flowchart`
   
   <img align="left" alt="es6-loops" width="300px" height="400px" src="https://static.javatpoint.com/tutorial/es6/images/es6-loops2.jpg" />
