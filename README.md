@@ -3,9 +3,11 @@
   `Syntax`
     
     ```ini
+    
     for(initialization;condition;incr/decr){    
     //statement or code to be executed    
     } 
+    
     ```
     
     
