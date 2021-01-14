@@ -1,4 +1,4 @@
-## ES6 Loops 🎓
+## `ES6 Loops` 🎓
 ---
   `Syntax`
     
