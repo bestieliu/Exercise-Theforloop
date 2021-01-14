@@ -2,9 +2,11 @@
 ---
   `Syntax`
     
+    ```ini
     for(initialization;condition;incr/decr){    
     //statement or code to be executed    
     } 
+    ```
     
     
     The 'for' loop includes some parts that are defined as follows:
